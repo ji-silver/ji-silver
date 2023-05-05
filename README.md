@@ -19,7 +19,7 @@
   <br/>
   <h3>👉 About Me 👈</h3>
 <!--   <a href="https://jisilver-k.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a> -->
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjisilver-k.tistory.com&count_bg=%23000000&title_bg=%23FF5A4A&icon=blogger.svg&icon_color=%23FFFFFF&title=Tistory&edge_flat=false"/></a>
+  <a href="https://jisilver-k.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjisilver-k.tistory.com&count_bg=%23000000&title_bg=%23FF5A4A&icon=blogger.svg&icon_color=%23FFFFFF&title=Tistory&edge_flat=false"/></a>
 <!--   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a> -->
   <a href="https://www.instagram.com/jisilver.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:jisilver.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
