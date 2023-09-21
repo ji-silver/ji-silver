@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <br/>
@@ -29,9 +29,10 @@
   <a href="https://jisilver-k.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   <a href="https://www.instagram.com/jisilver.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="mailto:jisilver.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  
+
   <br/><br/>
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisilver_kim)](https://solved.ac/jisilver_kim/)
+    <br/> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-silver&layout=compact">
 </div>
 
